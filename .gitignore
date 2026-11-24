@@ -1,0 +1,5 @@
+# Temporary scratch and test files
+scratch/
+
+# Step backups (kept locally)
+.backup_*
